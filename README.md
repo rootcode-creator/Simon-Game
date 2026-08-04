@@ -20,10 +20,6 @@
 	<a href="#-how-to-play"><img src="https://img.shields.io/badge/PLAY-HOW%20TO%20PLAY-A855F7?style=for-the-badge&logo=gamejolt&logoColor=white&labelColor=7E22CE" alt="How to play" /></a>
 </p>
 
-## Simon Game — README
-
-Simple memory challenge where players repeat an increasingly long color sequence.
-
 ## Table of Contents
 
 - [🚀 Project intro](#-project-intro)
